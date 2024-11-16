@@ -11,5 +11,15 @@
     pip3 install face_recognition
 
 
-#### all script testing port working fine
+### check all port exist
 
+pip install psutil
+
+
+## Check all usb port 
+
+pip install pyudev
+
+### check connect db 
+pip install pyodbc
+pip install mysql-connector-python
